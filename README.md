@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammad Farhad Tanveer</h1>
-<h3 align="center">I'm a front-end developer who knows HTML, CSS, and JavaScript, as well as React. I work with designers to develop visually appealing and user-friendly websites. I'm committed to keeping up to date on the latest front-end development trends and best practices, and I enjoy taking on difficult coding challenges.</h3>
+### Hi there 👋, I'm Mohammad Farhad Tanveer
+![](https://media.licdn.com/dms/image/D4E16AQHnvTF_9l3LwA/profile-displaybackgroundimage-shrink_350_1400/0/1692906699411?e=1698278400&v=beta&t=LX1Ek2CZVhA5jROx-ySByowJikdgWBo_Yy27oHTVEnA)
+
+I'm a front-end developer who knows HTML, CSS, and JavaScript, as well as React. I work with designers to develop visually appealing and user-friendly websites. I'm committed to keeping up to date on the latest front-end development trends and best practices, and I enjoy taking on difficult coding challenges.
+
 
 
 - 🌱 I’m currently learning **React, Next.js**
