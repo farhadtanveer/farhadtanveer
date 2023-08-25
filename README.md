@@ -23,7 +23,4 @@ I'm a front-end developer who knows HTML, CSS, and JavaScript, as well as React.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadtanveer&show_icons=true&locale=en&layout=compact" alt="farhadtanveer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadtanveer&show_icons=true&locale=en" alt="farhadtanveer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhadtanveer&" alt="farhadtanveer" /></p>
 
